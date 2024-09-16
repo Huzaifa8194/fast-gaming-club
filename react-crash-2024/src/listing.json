@@ -1,0 +1,161 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Valorant",
+      "type": "On-Campus",
+      "location": "B-126",
+      "description": "A valorant tournament with a lot of players and teams is being held in seal lab b-216 hosted by Mr. Bilal Khan Dar.",
+      "salary": "10000 Rs",
+      "company": {
+        "name": "Valorant",
+        "description": "Valorant game.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      },
+      "participants": [
+        "huzaifa@gmail.com",
+        "huzaifa@gmail.com",
+        "huzaifa@gmail.com"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "League of Legends LEGENDS!",
+      "type": "On-Campus",
+      "location": "Auditorium",
+      "description": "Join our exciting League of Legends tournament in sunny Miami, FL. We are looking for passionate players with excellent skills and strategic thinking. Experience with team play and a strong attention to detail are highly desirable.",
+      "salary": "Rs 2000",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a gaming organization specializing in esports events. Our team is dedicated to pushing the boundaries of competitive gaming and delivering exceptional experiences for our participants.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      },
+      "participants": [
+        "huzaifa@gmail.com",
+        "normal@gmail.com"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Dota 2",
+      "type": "On-Campus",
+      "location": "Med-C",
+      "description": "Are you passionate about Dota 2? Join our tournament in vibrant Brooklyn, NY, and compete in exciting matches that make a difference. We offer competitive prizes and a collaborative environment where your skills are valued.",
+      "salary": "4999 Rs",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading esports organization specializing in digital competitions for gamers of all levels. With a focus on innovation and player satisfaction, we are committed to delivering top-tier tournaments and events.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      },
+      "participants": []
+    },
+    {
+      "id": "4",
+      "title": "Counter-Strike: Global Offensive",
+      "type": "Off-campus",
+      "location": "Discord",
+      "description": "Join our team as a Part-Time participant in the CS: GO tournament in beautiful Phoenix, AZ. We are looking for a self-motivated individual with a passion for tactical shooters. This position offers flexible hours and the opportunity to compete remotely.",
+      "salary": "1000 Rs",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in esports and competitive gaming. We are committed to fostering a diverse and inclusive community where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      },
+      "participants": []
+    },
+    {
+      "id": "5",
+      "title": "Fortnite",
+      "type": "Full-Time",
+      "location": "Discord",
+      "description": "Exciting opportunity for Full-Time Fortnite players in bustling Atlanta, GA. We are seeking talented individuals with a passion for building and battling in the virtual world. Join our tournament and make an impact!",
+      "salary": "100,000 Rs",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing esports company specializing in online competitions. We offer a dynamic and collaborative environment where players are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      },
+      "participants": []
+    },
+    {
+      "id": "6",
+      "title": "Overwatch",
+      "type": "Off-campus",
+      "location": "Google Meet",
+      "description": "Join our team as a Full-Time participant in the Overwatch tournament in beautiful Portland, OR. We are looking for skilled and enthusiastic players to help us create an exciting gaming experience. Competitive prizes and great benefits package available.",
+      "salary": "3000 Rs",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in esports and digital competitions. We are committed to providing our participants with cutting-edge events and our employees with a supportive and rewarding environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      },
+      "participants": []
+    },
+    {
+      "id": "2719",
+      "title": "Fortnite creative championship",
+      "type": "On-Campus",
+      "location": "Aud",
+      "description": "adsad",
+      "salary": "30000",
+      "company": {
+        "name": "SE-C Gaming club",
+        "description": "SEC CLUB",
+        "contactEmail": "secgamingclub@gmail.com",
+        "contactPhone": "2312312313"
+      },
+      "participants": []
+    },
+    {
+      "id": "8259",
+      "title": "Fortnite event",
+      "type": "On-Campus",
+      "location": "Auditorium",
+      "description": "adasd",
+      "salary": "1000000",
+      "company": {
+        "name": "SE-C Gaming club",
+        "description": "dadasd",
+        "contactEmail": "secgamingclub@gmail.com",
+        "contactPhone": "03000905492"
+      },
+      "participants": []
+    },
+    {
+      "id": "efe4",
+      "title": "Fortnite creative championship",
+      "type": "On-Campus",
+      "location": "Auditorium",
+      "description": "blablablablablablablabal",
+      "salary": "1000000",
+      "company": {
+        "name": "SE-C Gaming club",
+        "description": "sdasds",
+        "contactEmail": "dsdadsad@gmail.com",
+        "contactPhone": "sadsadasd"
+      },
+      "participants": []
+    },
+    {
+      "id": "0da5",
+      "title": "sdasdSAd",
+      "type": "On-Campus",
+      "location": "asdsad",
+      "description": "dsadas",
+      "salary": "10000",
+      "company": {
+        "name": "asdasdsa",
+        "description": "asdasd",
+        "contactEmail": "sdad@gmail.com",
+        "contactPhone": "131232131"
+      },
+      "participants": []
+    }
+  ]
+}
